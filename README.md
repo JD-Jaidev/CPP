@@ -1,2 +1,2 @@
-# CPP
-CPP Lab programs
+# C++
+This Repo consists of CPP Lab programs.
