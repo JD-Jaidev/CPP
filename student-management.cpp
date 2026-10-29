@@ -22,7 +22,11 @@ public:
 };
 
 int main() {
-    Student s1(101, "Arun");
+    int roll = 0;
+    string name;
+    cin >> roll;
+    cin >> name;
+    Student s1(roll ,name);
     s1.display();
     return 0;
 }
